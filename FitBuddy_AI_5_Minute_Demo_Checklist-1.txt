@@ -1,0 +1,21 @@
+FITBUDDY-AI — 5-MINUTE RECORDING CHECKLIST
+
+0:00–0:30  Title slide
+0:30–1:00  Problem statement + objectives
+1:00–1:40  Architecture + technologies
+1:40–2:30  Open app + fill form + Generate Plan
+          Age: 21
+          Goal: Muscle gain
+          Experience: Beginner
+          Workout days: 4
+          Session: 45 minutes
+          Equipment: Dumbbells
+          Diet: Balanced
+          Limitations: No known limitations
+2:30–3:35  Show loading + generated plan; scroll through sections
+3:35–4:10  Prompt engineering + safety
+4:10–4:40  Testing + limitations + future enhancements
+4:40–5:00  Generated plan + Thank You
+
+RECORDING TIP:
+Keep screen recording running continuously during the live demo. When the plan appears, pause briefly on each major section so the evaluator can read it.
